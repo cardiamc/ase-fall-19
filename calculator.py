@@ -1,8 +1,8 @@
 def sign(n):
-    result = 1
+    resultt = 1
     if n < 0:
-        result = -1
-    return result
+        resultt = -1
+    return resultt
 
 def sum(m, n):
     added_value = sign(n)
